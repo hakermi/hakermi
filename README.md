@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakermi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning new tools to improve my skills
+- 🌱 I’m currently working as a developer engineer
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me : https://www.linkedin.com/in/helmi-akermi
 
